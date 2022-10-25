@@ -1,0 +1,195 @@
+.product-wrapper {
+    margin: 5% 1%;
+    padding-top: 1%;
+    padding-bottom: 7%;
+    background-image: linear-gradient(135deg, #a42a23 10%, #360940 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: center;
+    -webkit-box-shadow: 10px 10px 10px -5px #595959;
+    box-shadow: 10px 10px 10px -5px #151212;
+    border-radius: 20px;
+}
+
+.prod-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.prod-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.product {
+    margin-top: 1%;
+    display: flex;
+    flex-direction: column;
+}
+
+h1.product-name {
+    font-family: 'Urbanist', sans-serif;
+    font-size: xx-large;
+    margin-top: 1%;
+    margin-left: 18vw;
+    margin-bottom: 0 !important;
+    padding-bottom: 5%;
+    line-height: 1 !important;
+    font-color: #FFB8B8;
+    text-align: left;
+}
+
+img.prod-img {
+    background-image: url("../assets/aisles/fruits/apples.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    margin-left: 15vw;
+    min-width: 40vh;
+    min-height: 40vh;
+    width: 40vh;
+    height: 40vh;
+    overflow: hidden;
+    zoom: 100%;
+    -webkit-box-shadow: 5px 5px 10px -5px #595959;
+    box-shadow: 5px 5px 10px -5px #595959;
+    border-radius: 60px;
+}
+
+.prod-text {
+    padding-left: 3%;
+    padding-right: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+h1.desc-title {
+    font-family: 'Urbanist', sans-serif;
+    margin-bottom: 0 !important;
+    line-height: 1 !important;
+    color: white;
+    text-align: left;
+}
+
+h1.description {
+    font-family: 'Urbanist', sans-serif;
+    font-size: 120%;
+    color: white;
+    margin: 1% 10% 0 0%;
+    line-height: 1 !important;
+    text-align: left;
+}
+
+
+.prod-input-wrapper {
+    margin-right: 7%;
+    display: flex;
+    flex-direction: column;
+}
+
+.prod-button-more {
+    background-color: white !important;
+    -webkit-box-shadow: 5px 5px 10px -5px #595959;
+    box-shadow: 5px 5px 10px -5px #595959;
+    display: flex;
+    place-items: center;
+    padding: 4% 4vh 4% 10%;
+    border: none;
+    border-radius: 12px !important;
+    white-space: nowrap;
+}
+
+.prod-purchase-input-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+button.prod-button-add-cart {
+    background-color: #B7F666;
+    font-size: large;
+    -webkit-box-shadow: 5px 5px 10px -5px #595959;
+    box-shadow: 5px 5px 10px -5px #595959;
+    display: flex;
+    place-items: center;
+    padding: 1%;
+    border-radius: 30px !important;
+    border: none;
+    white-space: nowrap;
+    justify-content: center;
+}
+
+button.prod-button-add-cart:hover {
+    background-color: #f6faf4;
+}
+
+h1.add-cart {
+    font-size: x-large;
+    color: black;
+}
+
+@media screen and (max-width: 992px) {
+
+    .product-wrapper {
+        padding-top: 5%;
+    }
+
+    .prod-body {
+        flex-direction: column;
+        padding: 5% 0%;
+        justify-content: space-between;
+    }
+
+    img.prod-img {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 15vw;
+        min-width: 65vw;
+        min-height: 65vw;
+        width: 40vw;
+        height: 40vw;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 10px -5px #595959;
+        box-shadow: 5px 5px 10px -5px #595959;
+        border-radius: 40px;
+    }
+    
+
+    h1.add-cart {
+        font-size: xx-large;
+        color: black;
+    }
+
+    .prod-text {
+        padding: 10% 0% 0% 0%;
+        display: flex;
+        flex-direction: column;
+        place-items: center;
+    }
+
+    h1.desc-title {
+        font-family: 'Urbanist', sans-serif;
+        font-size: 300%;
+        margin-bottom: 0 !important;
+        line-height: 1 !important;
+        color: white;
+        text-align: left;
+    }
+
+    h1.description {
+        font-family: 'Urbanist', sans-serif;
+        font-size: 190%;
+        padding-left: 10vw;
+        color: white;
+        line-height: 1 !important;
+        text-align: justify;
+        text-justify: inter-word;   
+        place-items: center;
+    }
+}

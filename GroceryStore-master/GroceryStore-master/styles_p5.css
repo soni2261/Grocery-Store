@@ -1,0 +1,66 @@
+
+img {
+    width: 1920px;
+    height: 360px;
+    object-fit: cover;
+    position: relative;
+    left: 80px;
+}
+
+.submissionform {
+    max-width: 728px;
+    margin: 2rem auto;
+    border: 2px solid;
+    padding: 1rem;
+    display: block;
+}
+body {
+    background-color: #e8f3f8;
+}
+h1 {
+    text-align: center;
+    font-family: "Urbanist";
+    font-size: 50px;
+
+    color: #c42732;
+}
+form {
+    margin: 20px auto;
+    width: 400px;
+    color: #c42732;
+}
+input {
+    padding: 10px;
+    font-size: inherit;
+}
+input[type="Email"] {
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid #c42732;
+    background: #b5c95b;
+}
+input[type="Password"] {
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid #c42732;
+    background: #b5c95b;
+}
+input[type="submit"] {
+    width: 360px;
+    height: 45px;
+    border: none;
+    background: #c42732;
+    color: white;
+}
+input:focus {
+    background: white;
+}
+button {
+    width: 360px;
+    height: 45px;
+    border: none;
+    color: white;
+    background: #c42732;
+}

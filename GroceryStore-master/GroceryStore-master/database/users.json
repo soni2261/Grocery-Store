@@ -1,0 +1,72 @@
+[
+  {
+    "firstName": "Walid",
+    "lastName": "null",
+    "email": "walidoo_2002@hotmail.com",
+    "address": "null",
+    "postalCode": "null",
+    "password": "pass",
+    "role": "admin"
+  },
+  {
+    "firstName": "Sonia",
+    "lastName": "null",
+    "email": "sonia@gmail.com",
+    "password": "null",
+    "role": "admin"
+  },
+  {
+    "firstName": "asd",
+    "lastName": "asd",
+    "email": "asd",
+    "address": "asd",
+    "postalCode": "asd",
+    "password": "asd",
+    "role": "customer"
+  },
+  {
+    "firstName": "asdg",
+    "lastName": "asdg",
+    "email": "asdg",
+    "address": "asdg",
+    "postalCode": "asdg",
+    "password": "asd",
+    "role": "customer"
+  },
+  {
+    "firstName": "asdf",
+    "lastName": "asdf",
+    "email": "asdf",
+    "address": "asdf",
+    "postalCode": "asdf",
+    "password": "asdf",
+    "role": "customer"
+  },
+  {
+    "firstName": "hi",
+    "lastName": "123",
+    "email": "123",
+    "address": "123",
+    "postalCode": "123",
+    "password": "123",
+    "role": "customer"
+  },
+  {
+    "firstName": "f",
+    "lastName": "12345",
+    "email": "f",
+    "address": "null",
+    "postalCode": "null",
+    "password": "123",
+    "role": "admin"
+  },
+  {
+    "firstName": "Walid",
+    "lastName": "Admin",
+    "email": "Admin",
+    "address": "null",
+    "postalCode": "null",
+    "password": "Admin",
+    "role": "admin"
+  }
+]

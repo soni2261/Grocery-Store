@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "product_name": "Banana",
+    "description": "This banana has a thick skin, which makes the taste of the banana sweet and the texture smooth. This banana is used to sweeten your smoothie or can be used in yogurts for a good taste. It can also be used in fruit salads.",
+    "img_src": "assets\/aisles\/fruits\/bananas.jpg",
+    "product_price": 5.49,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 2,
+    "product_name": "Apples",
+    "description": "This bundle of apples is composed of three Lobo apples and three Ginger Gold apples originating from everywhere in Qu\u00e9bec. The Lobo apple is a variety that is absolutely delicious and crispy. This apple is used to bake pies since it tends to hold its shape when cooked. The Ginger Gold apple is very sweet to the taste. It can be used in fruit salads since its process of changing to a brown colour is much longer than the other varieties of apples.",
+    "img_src": "assets\/aisles\/fruits\/apples.jpg",
+    "product_price": 5.99,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 3,
+    "product_name": "Kiwi",
+    "description": "Kiwis are rich in nutrients and sweet to the taste. This kind of kiwi is not acid. It can be in a fruit salad with watermelon, grapes and cantaloupe.",
+    "img_src": "assets\/aisles\/fruits\/kiwis.jpg",
+    "product_price": 3.49,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 4,
+    "product_name": "Pomegranate",
+    "description": "Pomegranates are good to eat alone or in fruit salads, and can be made into juice. Pomegranates are very good when mixed with strawberries, bananas and kiwis.",
+    "img_src": "assets\/aisles\/fruits\/pomegranate.jpg",
+    "product_price": 4.49,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 5,
+    "product_name": "Cantaloupe",
+    "description": "This cantaloupe is a melon that is sweet and rich in vitamins and antioxidants. It can be used in fruit salads with grapes, watermelon and berries.",
+    "img_src": "assets\/aisles\/fruits\/cantaloupe.jpg",
+    "product_price": 7.99,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 6,
+    "product_name": "Orange",
+    "description": "Oranges are great in fruit salads or can be made into juice for breakfast or a snack. Oranges are rich in vitamin C and are sweet to the taste.",
+    "img_src": "assets\/aisles\/fruits\/orange.jpg",
+    "product_price": 4.49,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 7,
+    "product_name": "Strawberry",
+    "description": "Strawberries are fruity, sweet and juicy. They are a little bit acid sometimes. Those red berries are a burst of sweetness in your mouth, and taste good with bananas. They can also be made into a smoothie.",
+    "img_src": "assets\/aisles\/fruits\/strawberries.jpg",
+    "product_price": 1.49,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 8,
+    "product_name": "Raspberry",
+    "description": "Raspberries are sweet berries which can be eaten alone or with other berries. Raspberries have a pleasant aroma, and have the best taste in their peak season: summer. They are available year-round and are refreshing.",
+    "img_src": "assets\/aisles\/fruits\/raspberries.jpg",
+    "product_price": 0.34,
+    "aisle": "Fruits",
+    "quantity": 500
+  },
+  {
+    "id": 9,
+    "product_name": "Beetroot",
+    "description": "This bundle contains five beetroots grown in fields in Costa Rica. They thrive in cool climates and higher elevations. Beets are packed with antioxidants and are especially effective at preventing colon cancer. They\u2019re also a good source of folate, which helps in preventing birth defects. Place your beets where they can be kept cool to avoid drying them out and include them in your dishes, raw or cooked!",
+    "img_src": "assets\/aisles\/vegetables\/beetroot.jpeg",
+    "product_price": 5.49,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 10,
+    "product_name": "Ginger",
+    "description": "This ginger, originating from Southern India, is sold for its aromatic rhizomes. It is a super ingredient that can be used for medicinal and culinary purposes. Ginger contains various mineral elements such as chromium, magnesium, and zinc. These minerals help improve blood flow and they prevent chills, fevers as well as fungal infections. Use ginger to add fresh flavor to your meals and recipes.",
+    "img_src": "assets\/aisles\/vegetables\/ginger.jpeg",
+    "product_price": 1.15,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 11,
+    "product_name": "Garlic",
+    "description": "This clove of garlic is cultivated in China. Just like Ginger, garlic is also a super ingredient that can be used for medicinal purposes because it is very nutritious. A clove of raw garlic contains a decent amount of manganese, vitamin B6, vitamin C, and selenium. Used for its strong smell and delicious taste, garlic is a savory staple in cooking. Toss in some garlic in your meals to add depth and richness to them!",
+    "img_src": "assets\/aisles\/vegetables\/garlic.jpeg",
+    "product_price": 0.26,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 12,
+    "product_name": "Green peas",
+    "description": "This unit contains 100g of green peas cultivated in China. These green beads contain a high concentration of vitamins, minerals, antioxidants, and phytonutrients. Additionally, they\u2019re high in fiber which helps with digestion, and high in coumestrol, a nutrient that prevents stomach cancer. Peas are a great ingredient to add to your soups, your salads, and your curries.",
+    "img_src": "assets\/aisles\/vegetables\/green peas.jpeg",
+    "product_price": 0.26,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 13,
+    "product_name": "Corn",
+    "description": "These corns are grown by our very own Quebec farmers. Corn is a food that is considered both a vegetable and whole grain. Corn is a good source of thiamin and it helps in preventing colon cancer. It can be used in a variety of other foods such as popcorn, cornstarch, chips, syrups, etc. It is one of the most versatile ingredients as it can be broiled, steamed, grilled, microwaved, or roasted.",
+    "img_src": "assets\/aisles\/vegetables\/corn.jpeg",
+    "product_price": 1.37,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 14,
+    "product_name": "Zucchini",
+    "description": "This green squash is grown in Mexico. Zucchini has a subtle favor (mildy sweet and mildly sour) and unlike cucumbers, it is served cooked. It contains a great amount of folate, potassium and provitamin A. These nutrients are responsible for having a healthy eye and a healthy vision. Just like corn, it can be cooked and served in many ways (broiled, fried, roasted, etc).",
+    "img_src": "assets\/aisles\/vegetables\/zucchini.jpeg",
+    "product_price": 1.05,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 15,
+    "product_name": "Radishes",
+    "description": "Radishes, originating from Egypt, are sold as a bunch. Radishes are rich in antioxidants and minerals. These nutrients help previent cardiovascular diseases and improve blood flow. Raw radishes can taste spicy and zesty. To get rid of the \u201chot\u201d flavour of radishes, simply peel off its skin. Radishes can last up to two weeks if stored in a refrigerator. To extends its storage length, cut off its leafs at the top.",
+    "img_src": "assets\/aisles\/vegetables\/radishes.jpeg",
+    "product_price": 1.69,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 16,
+    "product_name": "Potato",
+    "description": "Potatoes, grown in Prince Edward Island, are in a 100g bag. Potatoes are a good source of fiber. Thus, they can help prevent heart diseases. Raw potatoes should be stored somewhere cool and dry. Potatoes can also turn green if it is exposed to sunlight for too long during storage. Throw in the first vegetable grown in space in some of your meals to make it delicious!",
+    "img_src": "assets\/aisles\/vegetables\/potato.jpeg",
+    "product_price": 0.11,
+    "aisle": "Vegetables",
+    "quantity": 500
+  },
+  {
+    "id": 17,
+    "product_name": "Butter",
+    "description": "This butter was made using pasteurized cream and salt. It comes inside a box of 500g of butter. It is made using fresh milk from Canadian farms across the country. The salted butter can be used to make grilled cheese sandwiches with a golden, crispy edge.",
+    "img_src": "assets\/aisles\/dairy\/butter.jpg",
+    "product_price": 6.99,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 18,
+    "product_name": "Cheddar",
+    "description": "This cheddar was made using fresh milk. The cheese can be eaten in your everyday life. They are used inside burgers and grilled cheese. This cheddar originates from the state of Wisconsin in the United Sate.",
+    "img_src": "assets\/aisles\/dairy\/cheddar.jpg",
+    "product_price": 6.24,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 19,
+    "product_name": "Mozzarella",
+    "description": "This mozzarella cheese was made using fresh milk. This cheese comes from a factory in Italy where it was made in an artisanal way.",
+    "img_src": "assets\/aisles\/dairy\/mozzarella.jpg",
+    "product_price": 7.97,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 20,
+    "product_name": "Popsicle",
+    "description": "This pack of popsicle has 6 units which were all made using fresh milk and fresh cherries out of local farms. It has natural sugar and no sugar added.",
+    "img_src": "assets\/aisles\/dairy\/popsicle.jpg",
+    "product_price": 4.97,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 21,
+    "product_name": "Milk",
+    "description": "Each pack contains one liter of natural milk. This is an imported milk from Brazil produced by the brand Itamb\u00e9.",
+    "img_src": "assets\/aisles\/dairy\/milk.jpg",
+    "product_price": 4.98,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 22,
+    "product_name": "Yogurt",
+    "description": "This is a homemade yogurt made using fresh milk gathered from local farms. It has less sugar than the regular ones. It is also made using fresh fruits such as berries and is also mixed with 100% natural oats.",
+    "img_src": "assets\/aisles\/dairy\/yogurt.jpg",
+    "product_price": 2.77,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 23,
+    "product_name": "Chocolate",
+    "description": "Each chocolate is sold $2 the unit price. Each unit weights around 500 grams. This chocolate is made using 100% natural cacao. It is stuffed with cherry syrup.",
+    "img_src": "assets\/aisles\/dairy\/chocolate.jpg",
+    "product_price": 2,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 24,
+    "product_name": "Ice cream",
+    "description": "This pack contains 500 grams of ice cream. It was made using fresh milk, and it was mixed with some chocolate chips. This ice cream pack must be held at freezing temperatures.",
+    "img_src": "assets\/aisles\/dairy\/ice cream.jpg",
+    "product_price": 3.97,
+    "aisle": "Dairy",
+    "quantity": 500
+  },
+  {
+    "id": 25,
+    "product_name": "Chicken",
+    "description": "Low calories and easy to roast white meat. Organically raised chicken with no added preservatives. Grown on Canadian owned farms and treated with care, these chickens have lived good stress-free lives. Fed with the best organic grains for the best tasting meat. Available all year long.",
+    "img_src": "assets\/aisles\/meats\/chicken.jpg",
+    "product_price": 10.99,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 26,
+    "product_name": "Bacon",
+    "description": "Great for a quick morning breakfast for a big day. Our nutritional bacon has no added preservatives, and is homegrown. Our bacon is traditional Canadian bacon, cut from the loin portion of the pork, for a leaner and more tender meat. Extremely high in fat content make sure to consume moderately.",
+    "img_src": "assets\/aisles\/meats\/bacon.jpg",
+    "product_price": 5.99,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 27,
+    "product_name": "Steak",
+    "description": "Qu\u00e9bec highest catered steak from our own organic and natural Canadian farms. With no use of OGMs, pesticides or insecticides, our cows receive the best treatment possible.",
+    "img_src": "assets\/aisles\/meats\/raw steak.jpg",
+    "product_price": 10.99,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 28,
+    "product_name": "Smoked Ham",
+    "description": "Our specialty smoked ham with brown sugar glaze, cooked at 250 degrees Farenheit and ready for pick up all throughout the day. Endow in the feeling of a home cooked meal without having to do anything.",
+    "img_src": "assets\/aisles\/meats\/smoked_ham.jpg",
+    "product_price": 12.99,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 29,
+    "product_name": "Lamb",
+    "description": "Lamb imported from our southern neighbors, taken care of in great agriculture facilities for a better tasting meat. Ready for any occasion, makes great for homemade lamb shawarmas. This rib chop is a light red and as tender as lamb meat can get.",
+    "img_src": "assets\/aisles\/meats\/lamb.jpg",
+    "product_price": 14.99,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 30,
+    "product_name": "Turkey",
+    "description": "Looking for the best turkey in town for the lowest price? Look no further, our Canadian turkeys are the most savoury and make for great special occasion dinners for the whole family and friends. Don't wait on Thanksgiving to try it out! Available year long, come get you one!",
+    "img_src": "assets\/aisles\/meats\/turkey.jpg",
+    "product_price": 13.49,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 31,
+    "product_name": "Drumsticks",
+    "description": "Organically raised chicken with no added preservatives. Grown on Canadian owned farms and treated with care, these chickens have lived good stress-free lives. Packaged as drumsticks they're perfect for a get-together dinner. Especially if you want to impress grandma with your new drumstick recipe. Very juicy and tender!",
+    "img_src": "assets\/aisles\/meats\/drumstick.jpg",
+    "product_price": 7.99,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 32,
+    "product_name": "Sausage",
+    "description": "Halal chicken sausage will have you fiending for more. Great for BBQs with family and friends at your local park. Can stay up to 10 days refrigerated, without losing any of its tenderness or juiciness. Comes in a great packaging, buy these and everyone ask you where you got them from!",
+    "img_src": "assets\/aisles\/meats\/sausage.jpg",
+    "product_price": 5.99,
+    "aisle": "Meat",
+    "quantity": 500
+  },
+  {
+    "id": 33,
+    "product_name": "Baguette",
+    "description": "Fan of Artisan Bread? Our baguettes are made from the finest wheat and love. Crisp crust and about 22cm long, perfect for your morning sandwhich, or just a quick snack on the go. Enjoy our signature Baguettes.",
+    "img_src": "assets\/aisles\/bakery\/baugette.jpg",
+    "product_price": 2.95,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 34,
+    "product_name": "Loaf of bread",
+    "description": "Can make you the perfect sandwhich, french toast, and even a pizza when you're out of ingridients! A loaf of Bread is an essential for every household, Specially when its Groscerise's Loaf of Bread.",
+    "img_src": "assets\/aisles\/bakery\/breadloaf.jpg",
+    "product_price": 5.79,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 35,
+    "product_name": "Bagels",
+    "description": "Put it with cream cheese, or jam, or even butter. This staple bakery item goes with anything of your liking.",
+    "img_src": "assets\/aisles\/bakery\/bagels.jpg",
+    "product_price": 3.49,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 36,
+    "product_name": "Buns",
+    "description": "These premimum soft buns made from the finest wheat will leave you wanting more. Our superior buns allow you to make the perfect burger, sandwich, or anything you like!",
+    "img_src": "assets\/aisles\/bakery\/buns.jpg",
+    "product_price": 4.49,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 37,
+    "product_name": "Assorted Doughnuts",
+    "description": "Comes in an assorted packs with variants such as glazed, chocolate, strawberry and many more.",
+    "img_src": "assets\/aisles\/bakery\/Doughnuts.jpg",
+    "product_price": 6.99,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 38,
+    "product_name": "Fresh Croissants",
+    "description": "Have it on the go! premiumly made dough\/roll-in fat layers to create a flaky, crispy texture. perfect to dip in your tea or to spread butter on.",
+    "img_src": "assets\/aisles\/bakery\/croissants.jpg",
+    "product_price": 0.99,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 39,
+    "product_name": "Cinnamon Rolls",
+    "description": "The perfect item to satisfy your sweet tooth and cravings for sweet carbohydrates. Our cinammon rolls contain the perfect amount of cinammon and cream in order to ensure your approval.",
+    "img_src": "assets\/aisles\/bakery\/cinammon1.jpg",
+    "product_price": 1.89,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 40,
+    "product_name": "Biscuits",
+    "description": "Crispy, flaky and tasty biscuits. An amazing side to have with the rest of your meal to ensure you feel satisfied with your meal!",
+    "img_src": "assets\/aisles\/bakery\/pbiscuit.jpg",
+    "product_price": 1.99,
+    "aisle": "Bakery",
+    "quantity": 500
+  },
+  {
+    "id": 41,
+    "product_name": "Coffee Beans",
+    "description": "Black coffee is practically calorie-free, carb-free and fat-free. It contains a small amount of proteins and few nutriments as vitamins, mineral; protassium, magnesium, phosphorus, manganese, etc. Dark-roasted, cold-brewed, filtered or grinded and added to a dessert, coffee will give you the energy you're missing in the morning with its caffeine.",
+    "img_src": "assets\/aisles\/pantry\/Coffee.jpg",
+    "product_price": 6.99,
+    "aisle": "Pantry",
+    "quantity": 500
+  },
+  {
+    "id": 42,
+    "product_name": "Almonds",
+    "description": "Almonds have many nutriment benefits: they are loaded with Antioxidants, carry a high concentration of Vitamin E, can help with blood sugar control, have Magnesium that helps the Blood Pressure levels and can lower Cholesterol levels. They can be eaten as a snack or added to another dish. Almonds are good raw, roasted or even soaked.",
+    "img_src": "assets\/aisles\/pantry\/Almonds.jpg",
+    "product_price": 4.49,
+    "aisle": "Pantry",
+    "quantity": 500
+  },
+  {
+    "id": 43,
+    "product_name": "Pistachios",
+    "description": "Pistachios are very nutritious. Despite the fact that they are among the lowest-calorie nuts, they do contain a good amount of proteins. These Middle East nuts lower cholesterol, blood pressure and blood sugar. They are delicious and fun to eat as a snack but also can be majestically blended to your recipes.",
+    "img_src": "assets\/aisles\/pantry\/Pistachios.jpg",
+    "product_price": 3.49,
+    "aisle": "Pantry",
+    "quantity": 500
+  },
+  {
+    "id": 44,
+    "product_name": "Cashew Nuts",
+    "description": "Cashew nuts have a multitude of positive impacts on the body. They are good for the heart health, eyes, skin, and hair. They are rich in healthy fats, protein and antioxidants. They are often mixed with other nuts for an enjoyable snack or incorporated in several dishes to add a crunch and their delicious nutty flavor.",
+    "img_src": "assets\/aisles\/pantry\/CashewNut.jpg",
+    "product_price": 1.99,
+    "aisle": "Pantry",
+    "quantity": 500
+  },
+  {
+    "id": 45,
+    "product_name": "Spice Mix",
+    "description": "This mixture of spice is composed of garlic salt, onion powder, dried oregano, black pepper, thyme, dried basil, dried parsley and chilly flakes. This mixture is made to achieve the irresistible taste of all Italian dishes. However, it marinates very well with any recipe.",
+    "img_src": "assets\/aisles\/pantry\/SpiceMix.jpg",
+    "product_price": 1.99,
+    "aisle": "Pantry",
+    "quantity": 500
+  },
+  {
+    "id": 46,
+    "product_name": "Cinnamon",
+    "description": "Cinnamon sticks are obtained from the inner bark of trees. The sticks can be dipped in a dish while it's simmering to use it as a flavouring additive. It can be ground in order to be used in a variety of cuisines because it combines well with sweet or savoury recipes.",
+    "img_src": "assets\/aisles\/pantry\/Cinnamon.jpg",
+    "product_price": 2.99,
+    "aisle": "Pantry",
+    "quantity": 500
+  },
+  {
+    "id": 47,
+    "product_name": "Red Paprika",
+    "description": "Red paprika is made out of dried and ground red pepper. It tastes can range from mild and sweet to spicy and smoked. It is mostly used as a replacement for spicy peppers, add sweet smokiness to BBQ sauce or to simply give a red tint color to the dishes. It contains a good amount of vitamin A, vitamin E, vitamin K and iron.",
+    "img_src": "assets\/aisles\/pantry\/Paprika.jpg",
+    "product_price": 1.99,
+    "aisle": "Pantry",
+    "quantity": 500
+  },
+  {
+    "id": 48,
+    "product_name": "Pepper",
+    "description": "Black pepper is a must in every household. It contains a lot of vitamins such as A,E,K,C,etc. It adds just enough spice to make your dish flavourful. Some people might say that it is spicy in large quantities, but that does not change its importance in recipes.",
+    "img_src": "assets\/aisles\/pantry\/Pepper.jpg",
+    "product_price": 0.99,
+    "aisle": "Pantry",
+    "quantity": 500
+  }
+]
