@@ -1,7 +1,7 @@
 # **Grocery Store Website**
 
-### URL: http://www.groscerise.online/
-### BackStore URL: http://www.groscerise.online/backstore/inventory.php
+### URL: https://users.encs.concordia.ca/~so_rahal/Grocery-Store-main/
+### BackStore URL (access restricted to admins): https://users.encs.concordia.ca/~so_rahal/Grocery-Store-main/backstore/inventory.php
 
 Assignment for SOEN 287 at Concordia University
 
